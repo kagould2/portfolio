@@ -1,9 +1,10 @@
 body {
   font-family: Arial, sans-serif;
+  font-size: 18 px;
   background-color: #fefefe;
   color: #222;
   margin: 0;
-  line-height: 1.6;
+  line-height: 1.7;
 }
 
 header, footer {
